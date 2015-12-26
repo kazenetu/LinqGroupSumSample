@@ -1,0 +1,2 @@
+# LinqGroupSumSample
+LINQでグルーピングして集計するサンプル
